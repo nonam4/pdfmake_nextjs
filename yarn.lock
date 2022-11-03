@@ -1292,11 +1292,6 @@ has@^1.0.1, has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-html-to-pdfmake@^2.4.7:
-  version "2.4.7"
-  resolved "https://registry.yarnpkg.com/html-to-pdfmake/-/html-to-pdfmake-2.4.7.tgz#c67768a79a47a1c8415dd121d5910cf75b5f786b"
-  integrity sha512-/ej5daor+l0BHoKe76datU6XxJiHggdRGu+z31DnsT+v1/1J00hBqj8fp/Os9zFy6e/Ewt3unx90dIgWsopogg==
-
 iconv-lite@^0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.6.3.tgz#a52f80bf38da1952eb5c681790719871a1a72501"
