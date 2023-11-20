@@ -5,9 +5,9 @@ This is a test with [pdfmake](https://github.com/bpampuch/pdfmake) and [Next.js]
 Start the app:
 
 ```bash
-npm run start
+npm run build && npm run start
 # or
-yarn start
+yarn build && yarn start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser and click on 'Get pdf' button to see the error.
